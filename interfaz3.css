@@ -1,0 +1,264 @@
+div#containergeneral{
+    width: auto;
+    height: auto;
+    background: #FFF;
+}
+
+div#containerhead{
+    width: auto;
+    height: 68.686px;
+    transform: rotate(-0.019deg);
+    flex-shrink: 0;
+    background: rgba(0, 151, 185, 0.81);
+}
+
+div#containerlogo{
+    margin: 10px;
+    margin-top: 20px;
+    width: 141px;
+    height: 61px;
+    flex-shrink: 0;
+}
+
+div#containerCategorias{
+    margin: -50px;
+    margin-left: 250px;
+    width: 104px;
+    height: 37px;
+    flex-shrink: 0;
+}
+
+button#boton1{
+    width: 120px;
+    height: 37px;
+    flex-shrink: 0;
+    background: #FFF;
+    color: #000;
+    font-family: Spline Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    stroke-width: 1px;
+    stroke: #000;
+}
+
+div#containerproductos{
+    margin: 90px;
+    margin-left: 50px;
+    width: 633px;
+    height: 361px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    border: 1px solid #FFF;
+    background: #FFF;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+div#containerimagen{
+    margin: 20px;
+    width: 128px;
+    height: 122px;
+    flex-shrink: 0;
+}
+
+h1#Titulo1{
+    margin: -90px;
+    margin-left: 150px;
+    width: 457px;
+    height: 54px;
+    flex-shrink: 0;
+    color: #000;
+    font-family: Spline Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+button#boton6{
+    margin: 100px;
+    margin-left: 150px;
+    width: 105px;
+    height: 36px;
+    flex-shrink: 0;
+    border-radius: 13px;
+    border: 1px solid #000;
+    background: #FFF;
+}
+
+p#precio1{
+    margin: 100px;
+    margin-left: 450px;
+    width: 111px;
+    height: 37px;
+    flex-shrink: 0;
+    color: #A5C66D;
+    font-family: Spline Sans;
+    font-size: 31px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+div#containereliminar{
+    margin: -135px;
+    margin-left: 300px;
+    width: 36px;
+    height: 36px;
+    flex-shrink: 0;
+}
+
+div#containerimagen1{
+    margin: 40px;
+    width: 103px;
+    height: 94px;
+    flex-shrink: 0;
+}
+
+h1#Titulo2{
+    margin: -130px;
+    margin-left: 170px;
+    width: 406px;
+    height: 41px;
+    flex-shrink: 0;
+    color: #000;
+    font-family: Spline Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+button#boton7{
+    margin: 160px;
+    margin-left: 175px;
+    width: 99px;
+    height: 36px;
+    flex-shrink: 0;
+    border-radius: 13px;
+    border: 1px solid #000;
+    background: #FFF;
+}
+
+div#containereliminar2{
+    margin: -200px;
+    margin-left: 320px;
+    width: 36px;
+    height: 36px;
+    flex-shrink: 0;
+}
+
+p#precio2{
+    margin: -40px;
+    margin-left: 150px;
+    width: 137px;
+    height: 37px;
+    flex-shrink: 0;
+    color: #A5C66D;
+    font-family: Spline Sans;
+    font-size: 31px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+div#containerfinal{
+    margin: -390px;
+    margin-left: 800px;
+    width: 434px;
+    height: 454px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    border: 1px solid #FFF;
+    background: #FFF;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+h1#Titulo3{
+    text-align: center;
+    color: #000;
+    font-family: Spline Sans;
+    font-size: 31px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+h3#Titulo4{
+    margin: 30px;
+    margin-left: 20px;
+    width: 176px;
+    color: #000;
+    font-family: Spline Sans;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+p#precio3{
+    margin: -50px;
+    margin-left: 300px;
+    width: 91px;
+    color: #000;
+    font-family: Spline Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+h3#Titulo5{
+    margin-left: 30px;
+    width: 55px;
+    color: #000;
+    font-family: Spline Sans;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+p#precio4{
+    margin: -40px;
+    margin-left: 300px;
+    width: 91px;
+    color: #000;
+    font-family: Spline Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+button#boton8{
+    margin: 50px;
+    margin-left: 110px;
+    width: 226px;
+    height: 48px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    background: #207178;
+    color: #FFF;
+    font-family: Spline Sans;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+input#busqueda{
+    margin: 15px;
+    margin-left: 390px;
+    width: 506px;
+    height: 25px;
+    flex-shrink: 0;
+    background: #FFF;
+    text-align:start;
+}
+
+div#containericonos{
+    margin: -50px;
+    margin-left: 1110px;
+}

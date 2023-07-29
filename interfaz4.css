@@ -1,0 +1,373 @@
+div#containergeneral{
+    width: auto;
+    height: auto;
+    background: #FFF;
+}
+
+div#containerhead{
+    width: auto;
+    height: 68.686px;
+    transform: rotate(-0.019deg);
+    flex-shrink: 0;
+    background: rgba(0, 151, 185, 0.81);
+}
+div#containerlogo{
+    margin: 10px;
+    margin-top: 20px;
+    width: 141px;
+    height: 61px;
+    flex-shrink: 0;
+}
+
+div#containerCategorias{
+    margin: -50px;
+    margin-left: 250px;
+    width: 104px;
+    height: 37px;
+    flex-shrink: 0;
+}
+
+button#boton1{
+    width: 120px;
+    height: 37px;
+    flex-shrink: 0;
+    background: #FFF;
+    color: #000;
+    font-family: Spline Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    stroke-width: 1px;
+    stroke: #000;
+}
+
+div#containernumero1{
+    margin: 200px;
+    margin-left: 250px;
+    width: 33px;
+    height: 33px;
+    flex-shrink: 0;
+    background: #FFF;
+    stroke-width: 1px;
+    stroke: #FFF;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) inset;
+}
+
+p#numero1{
+    margin: -228px;
+    margin-left: 260px;
+    color: #FFF;
+    font-family: Spline Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+div#containerimagen1{
+    margin: 185px;
+    margin-left: 120px;
+    width: 128px;
+    height: 122px;
+    flex-shrink: 0;
+}
+
+h1#Titulo1{
+    margin: -278px;
+    margin-left: 300px;
+    width: 440px;
+    height: 54px;
+    flex-shrink: 0;
+    color: #000;
+    font-family: Spline Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+p#precio1{
+    margin: 278px;
+    margin-left: 600px;
+    width: 83px;
+    height: 27px;
+    flex-shrink: 0;
+    color: #000;
+    font-family: Spline Sans;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+div#containernumero2{
+    margin: -230px;
+    margin-left: 250px;
+    width: 33px;
+    height: 33px;
+    flex-shrink: 0;
+    background: #FFF;
+    stroke-width: 1px;
+    stroke: #FFF;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) inset;
+}
+
+p#numero2{
+    margin: 200px;
+    margin-left: 260px;
+    color: #FFF;
+    font-family: Spline Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+div#containerimagen2{
+    margin: -210px;
+    margin-left: 130px;
+    width: 128px;
+    height: 122px;
+    flex-shrink: 0;
+}
+
+h1#Titulo2{
+    margin: 100px;
+    margin-left: 300px;
+    width: 440px;
+    height: 40px;
+    flex-shrink: 0;
+    color: #000;
+    font-family: Spline Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+p#precio2{
+    margin: -90px;
+    margin-left: 600px;
+    width: 83px;
+    height: 27px;
+    flex-shrink: 0;
+    color: #000;
+    font-family: Spline Sans;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+h1#Titulo3{
+    margin: 100px;
+    width: 390px;
+    height: 24px;
+    flex-shrink: 0;
+    color: #000;
+    font-family: Spline Sans;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+p#nombre{
+    margin: -70px;
+    margin-left: 100px;
+    width: 73px;
+    height: 24px;
+    flex-shrink: 0;
+    color: #000;
+    font-family: Spline Sans;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+input#Nombre{
+    margin: 45px;
+    margin-left: 250px;
+    width: 216px;
+    height: 32px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #E9E9E9;
+}
+
+div#containercuota{
+    margin: 20px;
+    margin-left: 100px;
+    width: 0px;
+    height: 0px;
+}
+p#cuota{
+    flex-shrink: 0;
+    color: #000;
+    font-family: Spline Sans;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+select#cuota1{
+    margin: -80px;
+    margin-left: 250px;
+    width: 90px;
+    height: 30px;
+    flex-shrink: 0;
+    border-radius: 13px;
+    border: 0px solid #000;
+    background: #E9E9E9;
+}
+
+div#containercodigo{
+    margin: 40px;
+    margin-left: 100px;
+    width: 0px;
+    height: 0px;
+}
+p#Codigo{
+    flex-shrink: 0;
+    color: #000;
+    font-family: Spline Sans;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+input#Codigo{
+    margin: -60px;
+    margin-left: 220px;
+    width: 75px;
+    height: 32px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #E9E9E9;
+}
+
+h3#subtitulo4{
+    margin: -320px;
+    margin-left: 530px;
+    width: 110px;
+    height: 24px;
+    flex-shrink: 0;
+    color: #000;
+    font-family: Spline Sans;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
+input#Numero{
+    margin: 312px;
+    margin-left: 700px;
+    width: 216px;
+    height: 32px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #E9E9E9;
+}
+
+h3#subtitulo5{
+    margin: -260px;
+    margin-left: 525px;
+    width: 110px;
+    height: 24px;
+    flex-shrink: 0;
+    color: #000;
+    font-family: Spline Sans;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
+input#Tipo{
+    margin: 250px;
+    margin-left: 700px;
+    width: 216px;
+    height: 32px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #E9E9E9;
+}
+h3#subtitulo6{
+    margin: -190px;
+    margin-left: 525px;
+    width: 110px;
+    height: 24px;
+    flex-shrink: 0;
+    color: #000;
+    font-family: Spline Sans;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
+input#Direccion{
+    margin: 160px;
+    margin-left: 700px;
+    width: 216px;
+    height: 32px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #E9E9E9;
+}
+
+div#containerbotones{
+    margin: -90px;
+    margin-left: 850px;
+}
+button#botonCancelar{
+    width: 155px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 12px;
+    border: 1px solid #000;
+    background: #FFF;
+    color: #0097B9;
+    font-family: Spline Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+button#botonPagar{
+    width: 155px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 12px;
+    background: #0097B9;
+    color: #FFF;
+    font-family: Spline Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+input#busqueda{
+    margin: 15px;
+    margin-left: 390px;
+    width: 506px;
+    height: 25px;
+    flex-shrink: 0;
+    background: #FFF;
+    text-align:start;
+}
+
+div#containericonos{
+    margin: -50px;
+    margin-left: 1110px;
+}

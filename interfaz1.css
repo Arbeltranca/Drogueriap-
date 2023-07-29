@@ -1,0 +1,321 @@
+div#containergeneral{
+    width: auto;
+    height: auto;  
+    background-color: #fff
+    }
+
+div#containerhead{
+    width: auto;
+    height: 68.686px;
+    transform: rotate(-0.019deg);
+    flex-shrink: 0;
+    background: rgba(0, 151, 185, 0.81);
+}
+div#containerlogo{
+    margin: 10px;
+    margin-top: 20px;
+    width: 141px;
+    height: 61px;
+    flex-shrink: 0;
+}
+div#containerCategorias{
+    margin: -50px;
+    margin-left: 250px;
+    width: 104px;
+    height: 37px;
+    flex-shrink: 0;
+}
+
+button#boton1{
+    margin: -5px;
+    width: 120px;
+    height: 37px;
+    flex-shrink: 0;
+    background: #FFF;
+    color: #000;
+    font-family: Spline Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    stroke-width: 1px;
+    stroke: #000;
+}
+
+div#containerpublicidad{
+
+    margin-top: 50px;
+    width: auto;
+    height: 185px;
+    flex-shrink: 0;
+    background: rgba(0, 151, 185, 0.81);
+}
+div#containerimagen{
+    margin-left: 90px;
+    width: 1083px;
+    height: 273px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    border: 1px solid #000;
+}
+
+h1#titulo1{
+    text-align: center;
+    margin: 50px;
+    width: auto;
+    height: auto;
+    flex-shrink: 0;
+    color: #000;
+    font-family: Spline Sans;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+div#contenido1{
+    margin-left: 75px;
+    width: 244px;
+    height: 346px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    border: 1px solid #FFF;
+    background: #FFF;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+div#imagen1{
+    width: 205px;
+    height: 162px;
+    flex-shrink: 0;
+    border-radius: 5px;
+}
+p#texto1{
+    margin: 3px;
+    margin-left: 10px;
+    width: 189px;
+    color: #000;
+    font-family: Spline Sans;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+p#precio1{
+    margin: 3px;
+    margin-left: 10px;
+    width: 95px;
+    height: 31px;
+    flex-shrink: 0;
+    color: #000;
+    font-family: Spline Sans;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+button#boton2{
+    margin: 10px;
+    margin-left: 15px;
+    width: 217px;
+    height: 45px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    background: #A5C66D;
+    color: #FFF;
+    font-family: Spline Sans;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+div#contenido2{
+    margin: -365px;
+    margin-left: 385px;
+    width: 244px;
+    height: 346px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    border: 1px solid #FFF;
+    background: #FFF;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+div#imagen2{
+    width: 167px;
+    height: 143px;
+    flex-shrink: 0;
+    border-radius: 6px;
+}
+
+p#texto2{
+    margin: 3px;
+    margin-left: 10px;
+    width: 187px;
+    height: 64px;
+    flex-shrink: 0;
+    color: #000;
+    font-family: Spline Sans;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+p#precio2{
+    margin: 3px;
+    margin-left: 10px;
+    color: #000;
+    font-family: Spline Sans;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+button#boton3{
+    margin-left: 15px;
+    width: 217px;
+    height: 45px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    background: #A5C66D;
+    color: #FFF;
+    font-family: Spline Sans;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: flex;
+    justify-content: center;
+}
+
+div#contenido3{
+    margin: 0px;
+    margin-left: 695px;
+    width: 244px;
+    height: 346px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    border: 1px solid #FFF;
+    background: #FFF;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+div#imagen3{
+    width: 216px;
+    height: 161px;
+    flex-shrink: 0;
+    border-radius: 5px;
+}
+
+p#texto3{
+    margin: 3px;
+    margin-left: 10px;
+    width: 187px;
+    height: 64px;
+    flex-shrink: 0;
+    color: #000;
+    font-family: Spline Sans;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+p#precio3{
+    margin: 3px;
+    margin-left: 10px;
+    color: #000;
+    font-family: Spline Sans;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+button#boton4{
+    margin-left: 15px;
+    width: 217px;
+    height: 45px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    background: #A5C66D;
+    color: #FFF;
+    font-family: Spline Sans;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: flex;
+    justify-content: center;
+}
+
+div#contenido4{
+    margin: -369px;
+    margin-left: 1000px;
+    width: 244px;
+    height: 346px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    border: 1px solid #FFF;
+    background: #FFF;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+div#imagen4{
+    width: 216px;
+    height: 161px;
+    flex-shrink: 0;
+    border-radius: 5px;
+}
+
+p#texto4{
+    margin: 3px;
+    margin-left: 10px;
+    width: 187px;
+    height: 64px;
+    flex-shrink: 0;
+    color: #000;
+    font-family: Spline Sans;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+p#precio4{
+    margin: 3px;
+    margin-left: 10px;
+    color: #000;
+    font-family: Spline Sans;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+button#boton5{
+    margin-left: 15px;
+    width: 217px;
+    height: 45px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    background: #A5C66D;
+    color: #FFF;
+    font-family: Spline Sans;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: flex;
+    justify-content: center;
+}
+
+input#busqueda{
+    margin: 15px;
+    margin-left: 390px;
+    width: 506px;
+    height: 25px;
+    flex-shrink: 0;
+    background: #FFF;
+    text-align:start;
+}
+
+div#containericonos{
+    margin: -50px;
+    margin-left: 1110px;
+}

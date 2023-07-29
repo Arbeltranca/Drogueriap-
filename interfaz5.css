@@ -1,0 +1,37 @@
+.interfaz6{
+    width: 1280px;
+    height: 832px;  
+    background-color: #fff
+    }
+
+.encabezado{
+    width: 1280.041px;
+    height: 100.686px;
+    transform: rotate(-0.019deg);
+    flex-shrink: 0;
+    background-color: rgba(0, 151, 185, 0.81);
+}
+.publicidad{
+    width: 1278px;
+    height: 185px;
+    flex-shrink: 0;
+    background: rgba(0, 151, 185, 0.81);
+}
+.titulo{
+    width: 239px;
+    height: 27px;
+    flex-shrink: 0;
+    color: #000;
+    font-family: Spline Sans;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.botones{
+    border-radius: 12px;
+border: 1px solid #000;
+background: #FFF;
+border-radius: 12px;
+background: #0097B9;
+}
